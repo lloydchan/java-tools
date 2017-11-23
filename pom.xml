@@ -9,4 +9,7 @@
 	<name>Boost {project.version}</name>
 	
 	<description>tools to boost development</description>
+	<modules>
+		<module>boost-core</module>
+	</modules>
 </project>
